@@ -129,8 +129,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  <strong>Requirements:</strong> You will each be provided with an ESR laptop which will have all required software and admin rights set up for you. Mice will be available should you wish to use one, and if you prefer typing on a keyboard you are more than welcome to bring the one from your desk.
 </p>
 
 {% comment%}

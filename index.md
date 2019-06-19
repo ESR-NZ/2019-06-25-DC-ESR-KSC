@@ -11,7 +11,7 @@ humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2019-06-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-06-26        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Mik Black", "Joep de Ligt", "Miles Benton"]
-helper: ["Ben Waite", "Richard Dean", "Alessandra Santana]     
+helper: ["Ben Waite", "Richard Dean", "Alessandra Santana"]     
 email: ["Miles.Benton@esr.cri.nz", "Joep.DeLigt@esr.cri.nz"]    
 collaborative_notes: https://pad.carpentries.org/2019-06-25-DC-ESR-KSC            
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
